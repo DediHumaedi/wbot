@@ -4,13 +4,10 @@
 
 <img src="https://telegra.ph/file/fbe3160f0ad0e14abeeeb.jpg" width="150" height="150" border="0" alt="PFP">
 
-# Kaguya PublicBot - MD
+# Deadrz BOT - MD
 ### Use at your own risk!
 
 ## [![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-
-> [Legacy](https://github.com/FaizBastomi/wbot/tree/legacy) branch <br />
-Untuk instalasi bahasa Indonesia lihat [disini](./ID.md)<br />
 
 </div><br />
 <br />
@@ -34,7 +31,7 @@ Untuk instalasi bahasa Indonesia lihat [disini](./ID.md)<br />
 - [x] Easy to maintenance
 
 ## TODO
-For a to do list, see here [#1](https://github.com/FaizBastomi/wbot/issues/1)
+For a to do list, see here [#1](https://github.com/Dedihumaedi/wbot/issues/1)
 
 ## Instalation
 ### Config
@@ -42,7 +39,7 @@ Rename `config.json.example` to `config.json` or create new file called `config.
 Fill in everything needed in the `config.json` file (follow `config.json.example`).<br />
 ```ts
 {
-    "botName": "SMH BOT",			// Your Bot Name
+    "botName": "Deadrz BOT",			// Your Bot Name
     "owner": [					// Your phone number or friend
         "Your_Phonenumber@s.whatsapp.net",
         "another_one@s.whatsapp.net"
@@ -53,7 +50,7 @@ Fill in everything needed in the `config.json` file (follow `config.json.example
     "user_db": "users-db.json",			// User DB filename
     "chat_store": "baileys-store.json",		// Chat Store
     "timezone": "Asia/Jakarta",			// Your timezone (for cron and moment-timezone)
-    "footer": "Kaguya PublicBot • FaizBastomi",	// Footer for some message
+    "footer": "Deadrz BOT • DediHumaedi",	// Footer for some message
     "tier": {					// Premium Tier
         "drakath": 200,
         "nulgath": 500,
@@ -165,8 +162,8 @@ node ./lib/connect.js
 Pull requests are welcome. Your contribution is helping me a lot :^)
 
 ## Contributors
-<a href="https://github.com/FaizBastomi/wbot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FaizBastomi/wbot" />
+<a href="https://github.com/Dedihumaedi/wbot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Dedihumaedi/wbot" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
