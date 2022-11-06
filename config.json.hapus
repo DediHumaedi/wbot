@@ -1,0 +1,19 @@
+{
+    "timezone": "Asia/Jakarta",
+    "botName": "Deadrz BOT",
+    "owner": [
+        "6282125388500@s.whatsapp.net"
+    ],
+    "openWeather": "OpenWeather_APIkey",
+    "igCookie": "2297035587%3AaVdfXmsMptVlNx%3A27%3AAYcIZ-d_CVgTDHBqMYSRjqsF26ot8Au6_beKvNZfQw",
+    "session": "session-md.json",
+    "user_db": "users-db.json",
+    "chat_store": "baileys-store.json",
+    "timezone": "Asia/Jakarta",
+    "footer": "Deadrz PublicBot • Dedi Humaedi",
+    "tier": {
+        "drakath": 200,
+        "nulgath": 500,
+        "artix": 999
+    }
+}
